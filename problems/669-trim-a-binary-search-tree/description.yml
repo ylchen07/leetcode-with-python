@@ -1,0 +1,5 @@
+---
+problem:
+  id: 669
+  name: "Trim a Binary Search Tree"
+  url: "https://leetcode.com/problems/trim-a-binary-search-tree/"
